@@ -1,0 +1,8 @@
+node_modules
+.env
+build
+dist
+.DS_Store
+frontend/blog-frontend/node_modules
+frontend/blog-frontend/dist
+backend/node_modules
